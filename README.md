@@ -1,2 +1,7 @@
-# central-9476
-Support Authentication Repo for the dinistiq namespace used in https://codeberg.org/backendzeit/dinistiq and mirrors
+# Dinistiq Namespace Authentication
+
+Thanks for your quick response and the suggested solution. The rest of the details go via mail.
+
+Cheers
+
+Martin
